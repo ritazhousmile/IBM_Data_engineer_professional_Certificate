@@ -1,0 +1,15 @@
+Data extracted successfully
+Data transformed successfully
+Data loaded to CSV successfully
+Data loaded to database successfully
+All operations completed successfully
+Data extracted successfully
+Data transformed successfully
+Data loaded to CSV successfully
+Data loaded to database successfully
+All operations completed successfully
+Data extracted successfully
+Data transformed successfully
+Data loaded to CSV successfully
+Data loaded to database successfully
+All operations completed successfully
