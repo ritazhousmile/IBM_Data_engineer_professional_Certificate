@@ -32,16 +32,7 @@ This certificate program covers the following key areas:
 - Deploy data engineering solutions on cloud platforms
 - Create data warehouses and perform BI analytics
 
-## 🗂️ Project Structure
 
-```
-IBM_Data_engineer_professional_Certificate/
-├── cheatsheets/            # Quick reference notebooks
-│   └── PandasCheatsheet.ipynb
-├── data/                   # Data files and datasets
-├── scripts/                # Data processing scripts
-└── sql/                    # SQL scripts and schemas
-```
 
 ## 🛠️ Tools & Technologies Used
 
@@ -58,25 +49,5 @@ IBM_Data_engineer_professional_Certificate/
 - [Course Materials](https://github.com/ibm-developer-skills-network)
 - [IBM Cloud Documentation](https://cloud.ibm.com/docs)
 
-### Access the Application
-- Frontend: http://localhost:3000
-- Backend API: http://localhost:8000
 
-## 📓 Using Cheatsheets
-
-Simple cheatsheet storage for quick reference:
-
-### 🚀 Using Your Cheatsheets
-```bash
-# Open a cheatsheet
-jupyter notebook cheatsheets/PandasCheatsheet.ipynb
-
-# Or start Jupyter and browse
-jupyter notebook
-```
-
-### 💡 **Simple Usage:**
-- Keep cheatsheets open in a separate tab/window
-- Reference while working on your projects
-- Copy/modify examples as needed
 
