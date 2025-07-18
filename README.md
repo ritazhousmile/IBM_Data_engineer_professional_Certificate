@@ -6,7 +6,7 @@ This repository contains projects and exercises completed as part of the IBM Dat
 This certificate program covers the following key areas:
 
 - [x] **Introduction to Data Engineering**
-- [ ] **Python for Data Science, AI & Development**
+- [x] **Python for Data Science, AI & Development**
 - [ ] **Python Project for Data Engineering**
 - [ ] **Introduction to Relational Databases (RDBMS)**
 - [ ] **Databases and SQL for Data Science with Python**
