@@ -1,0 +1,72 @@
+# IDE and Editor Settings (Personal preferences)
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Large or Personal Data Files (but keep learning examples)
+# Add specific large files here as needed
+# Example: large_dataset.csv
+
+# Logs
+*.log
+logs/
+
+# Environment Variables and Secrets
+.env
+.env.local
+.env.*.local
+secrets.json
+.secrets
+credentials.json
+api_keys.json
+
+# Operating System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/ 
