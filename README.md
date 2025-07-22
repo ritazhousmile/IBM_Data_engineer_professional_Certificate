@@ -7,8 +7,8 @@ This certificate program covers the following key areas:
 
 - [x] **Introduction to Data Engineering**
 - [x] **Python for Data Science, AI & Development**
-- [ ] **Python Project for Data Engineering**
-- [ ] **Introduction to Relational Databases (RDBMS)**
+- [x] **Python Project for Data Engineering**
+- [x] **Introduction to Relational Databases (RDBMS)**
 - [ ] **Databases and SQL for Data Science with Python**
 - [ ] **Hands-on Introduction to Linux Commands and Shell Scripting**
 - [ ] **Relational Database Administration (DBA)**
