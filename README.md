@@ -10,7 +10,7 @@ This certificate program covers the following key areas:
 - [x] **Python Project for Data Engineering**
 - [x] **Introduction to Relational Databases (RDBMS)**
 - [x] **Databases and SQL for Data Science with Python**
-- [ ] **Hands-on Introduction to Linux Commands and Shell Scripting**
+- [x] **Hands-on Introduction to Linux Commands and Shell Scripting**
 - [ ] **Relational Database Administration (DBA)**
 - [ ] **ETL and Data Pipelines with Shell, Airflow and Kafka**
 - [ ] **Getting Started with Data Warehousing and BI Analytics**

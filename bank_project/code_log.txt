@@ -1,0 +1,16 @@
+Extracted table from https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks and saved to largest_banks_data.csv
+Converted Market Cap to GBP, EUR, and INR using exchange rates from exchange_rates.csv
+Saved data to largest_banks_data.csv
+Loaded data to largest_banks table in database
+All operations completed successfully
+Extracted table from https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks and saved to largest_banks_data.csv
+Converted Market Cap to GBP, EUR, and INR using exchange rates from exchange_rates.csv
+Saved data to largest_banks_data.csv
+Loaded data to largest_banks table in database
+All operations completed successfully
+Extracted table from https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks and saved to largest_banks_data.csv
+Converted Market Cap to GBP, EUR, and INR using exchange rates from exchange_rates.csv
+Saved data to largest_banks_data.csv
+Loaded data to largest_banks table in database
+All operations completed successfully
+Extracted table from https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks and saved to largest_banks_data.csv

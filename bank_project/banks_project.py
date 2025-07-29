@@ -116,7 +116,9 @@ portion is not inside any function.'''
 
 def main():
     df = extract(url, table_attribs_extracted)
+    print(df)
     df = transform(df, csv_path)
+    print("transformed data",df)
     load_to_csv(df, output_file)
     sql_connection = sqlite3.connect(database_name)
     load_to_db(df, sql_connection, table_name)
